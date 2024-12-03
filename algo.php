@@ -36,3 +36,9 @@ while ($num1 != 10) {
     $num1++;
 }
 */
+
+/* Exercise 5 
+for ($i = 1; $i <= 15; $i++) {
+    echo "{$i}<br>";
+}
+*/
