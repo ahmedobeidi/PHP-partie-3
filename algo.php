@@ -39,6 +39,12 @@ while ($num1 != 10) {
 
 /* Exercise 5 
 for ($i = 1; $i <= 15; $i++) {
-    echo "{$i}<br>";
+    echo "On y arrive presque<br>";
+}
+*/
+
+/* Exercise 6 
+for ($i = 20; $i >= 0; $i--) {
+    echo "C'est presque bon<br>";
 }
 */
