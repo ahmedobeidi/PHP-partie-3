@@ -31,11 +31,13 @@ while ($var1 >= 10) {
 
 /* Exercise 4 
 $num1 = 1;
-while ($num1 != 10) {
+while ($num1 < 10) {
     echo "{$num1}<br/>";
-    $num1++;
+    $value = $num1 / 2;
+    $num1 = $num1 + $value;
 }
 */
+
 
 /* Exercise 5 
 for ($i = 1; $i <= 15; $i++) {
