@@ -48,3 +48,9 @@ for ($i = 20; $i >= 0; $i--) {
     echo "C'est presque bon<br>";
 }
 */
+
+/* Exercise 7 
+for ($i = 1; $i <= 100; $i = $i + 15) {
+    echo "On tient le bon bout<br>";
+}
+*/
