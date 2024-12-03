@@ -18,3 +18,13 @@ while ($num1 < 20) {
     $num1++;
 }
 */
+
+/* Exercise 3 
+$var1 = 100;
+$var2 = 1;
+while ($var1 >= 10) {
+    $result = $var1 * $var2;
+    echo "{$result}<br/>";
+    $var1--;
+}
+*/
