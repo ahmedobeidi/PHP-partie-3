@@ -28,3 +28,11 @@ while ($var1 >= 10) {
     $var1--;
 }
 */
+
+/* Exercise 4 
+$num1 = 1;
+while ($num1 != 10) {
+    echo "{$num1}<br/>";
+    $num1++;
+}
+*/
